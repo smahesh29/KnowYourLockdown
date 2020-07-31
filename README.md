@@ -1,0 +1,2 @@
+# KnowYourLockdown
+An Interactive dashboard which visualizes data on the Indian Map drilled down to each district. It shows the sentiments of people regarding lockdown (Positive, Negative, Neutral), mental health of population during lockdown &amp; live patient count. The website will allow the government to know which region faces which problems(Food Shortage, Transportation, Economic, Daily services, Others ).
