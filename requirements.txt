@@ -19,7 +19,7 @@ cloudpickle==1.4.1
 colorama==0.4.3
 colorlover==0.3.0
 configparser==5.0.0
-cryptography==3.2
+cryptography==3.3.2
 csvmatch==1.20
 cycler==0.10.0
 DateTime==4.3
