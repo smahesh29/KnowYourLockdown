@@ -158,4 +158,4 @@ xlrd==1.2.0
 zope.index==5.0.0
 zope.interface==5.1.0
 dj-static==0.0.6
-django-debug-toolbar==2.2
+django-debug-toolbar==2.2.1
